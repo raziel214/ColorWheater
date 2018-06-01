@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tittle_daily">Daily Forecast</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="daily">Daily</string>
+    <string name="hourly">Hourly</string>
+    <string name="minutely">Minutely</string>
+    <string name="minutely_weather_title">Minutely Forecast</string>
+</resources>
